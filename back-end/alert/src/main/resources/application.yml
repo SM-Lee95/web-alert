@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: alert
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: info
+
